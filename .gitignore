@@ -1,0 +1,8 @@
+.venv/
+ov_cache/
+models/
+ovms/
+*.zip
+*.zip.sha256
+*.bat
+.ipynb_checkpoints/
